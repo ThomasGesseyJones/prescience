@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prescience"
+maintainers = [
+    { name="Thomas Gessey-Jones", email="thomasgesseyjones@gmail.com" },
+]
+authors = [
+    { name="Thomas Gessey-Jones", email="thomasgesseyjones@gmail.com" },
+]
+version = "0.0.0-alpha.1"
+description = "Fully Bayesian Forecasting"
+readme = "README.rst"
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Development Status :: 2 - Pre-Alpha",
+    "Natural Language :: English",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ThomasGesseyJones/prescience"
+"Bug Tracker" = "https://github.com/ThomasGesseyJones/prescience/issues"
