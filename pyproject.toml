@@ -10,7 +10,7 @@ maintainers = [
 authors = [
     { name="Thomas Gessey-Jones", email="thomasgesseyjones@gmail.com" },
 ]
-version = "0.0.0-alpha.1"
+version = "0.0.0-alpha.2"
 description = "Fully Bayesian Forecasting"
 readme = "README.rst"
 license = {file = "LICENSE"}
